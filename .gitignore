@@ -1,3 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*/venv/
+octofit-tracker/backend/venv/
+
+# Django
+*.sqlite3
+media/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
 .DS_Store
 
 # Virtual Environment
